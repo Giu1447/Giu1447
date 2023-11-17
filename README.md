@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Giu</h1>
+<h1 align="center">DeGiu</h1>
 <h3 align="center">IMS</h3>
 <img align="right" alt="Coding" width="400"  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRwcDdmeG9sMmg4OHJnOXdseHpndHhqM3Y0MHBsM2RiNDlkMW82YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sr9PmKyyzqK0Qx21oc/giphy.gif">
 
