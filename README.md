@@ -1,23 +1,79 @@
-<h1 align="center">DeGiu</h1>
-<h3 align="center">IMS</h3>
-<img align="right" alt="Coding" width="400"  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRwcDdmeG9sMmg4OHJnOXdseHpndHhqM3Y0MHBsM2RiNDlkMW82YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sr9PmKyyzqK0Qx21oc/giphy.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=giu1447&label=Profile%20views&color=0e75b6&style=flat" alt="giu1447" /> </p>
-
-- 🔭 I’m currently working on **MyWebsite**
-
-- 🌱 I’m currently learning **python, react**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.instagram.com/giulian838/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/giulian838/" height="30" width="40" /></a>
+<h2 align="center">👋 Ich bin Giulian</h2>
+<p align="center">
+Ich heiße Giulian und besuche derzeit die IMS, wo ich meine Fähigkeiten in der Softwareentwicklung ausbaue. Ich habe eine solide Grundlage in der Frontend-Entwicklung, insbesondere mit React, und erweitere aktuell meine Kenntnisse im Backend-Bereich und in Java. Ein Beispiel meiner Arbeit im Frontend findest du <a href="https://versicherungsrechner-coral.vercel.app/">hier</a>. Ich arbeite leidenschaftlich gern an Projekten und bin stets bestrebt, neue Programmiersprachen und Frameworks zu erlernen, um meine Fähigkeiten zu erweitern. <br> In meiner Freizeit bin ich gerne draußen und bleibe aktiv. Außerdem interessiere ich mich sehr für Fotografie, besonders für Autos, Natur und den Nachthimmel. <br> Mein Ziel ist es, meine Fähigkeiten weiter zu verbessern und einen bedeutenden Beitrag zu den Projekten zu leisten, an denen ich arbeite. Wenn du Fragen hast oder Kontakt aufnehmen möchtest, besuche bitte den unten stehenden Kontaktbereich.
+</p><h2 align="center">📚 Ausbildung</h2>
+<div align="center">
+  <ul>
+    <li>
+      <b>Kantonsschule Büelrain</b><br>
+    </li>
+    <li>
+      <b>Berufsbildungsschule Winterthur</b><br>
+    </li>
+    <li>
+      <b>Zürcher Lehrbetriebsverband ICT</b><br>
+    </li>
+  </ul>
+  Abgeschlossene Semester: <b>3</b>
+</div><h2 align="center">🌟 IT-Kompetenzen</h2>
+<h3 align="center">Frameworks & Sprachen, die ich regelmäßig nutze</h3>
+<div align="center">
+  <ul>
+    <li>
+      <h4>Web-Entwicklung</h4>
+      <!-- HTML -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 Logo" />
+      <!-- CSS -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 Logo" />
+      <!-- JS -->
+      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript Logo" />
+    </li>
+    <li>
+      <h4>Datenbanken</h4>
+      <!-- MySQL -->
+      <img src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg" height="40" alt="MySQL Logo" />
+      <!-- MongoDB -->
+      <img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="40" alt="MongoDB Logo" />
+      <!-- MariaDB -->
+      <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg" height="40" alt="MariaDB Logo" />
+    </li>
+    <li>
+      <h4>Weitere Sprachen / Frameworks</h4>
+      <!-- GIT -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git Logo" />
+      <!-- JAVA -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java Logo" />
+      <!-- REACT -->
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40" alt="React Logo" />
+    </li>
+  </ul>
+</div>
+<h3 align="center">Frameworks, Sprachen & Tools, mit denen ich vertraut bin</h3>
+<div align="center">
+  <ul>
+    <li>
+      <h4>Frameworks</h4>
+      <!-- TAILWIND -->
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40" alt="Tailwind CSS Logo" />
+      <!-- SPRINGBOOT -->
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" height="40" alt="Spring Boot Logo" />
+    </li>
+    <li>
+      <h4>Tools</h4>
+      <!-- DOCKER -->
+      <img src="https://www.svgrepo.com/show/331370/docker.svg" height="40" alt="Docker Logo"/>
+      <!-- POSTMAN -->
+      <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" alt="Postman Logo"/>
+      <!-- FIGMA -->
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="40" alt="Figma Logo"/>
+    </li>
+  </ul>
+</div><h2 align="center">📫 Kontakt</h2>
+<p align="center">
+  <a href="mailto:mazzeo.giulian@gmail.com">E-Mail</a> | 
+  <a href="https://www.linkedin.com/in/dominik-h%C3%A4mmerle-10956221b/">LinkedIn</a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giu1447&show_icons=true&locale=en&layout=compact" alt="giu1447" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giu1447&show_icons=true&locale=en" alt="giu1447" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giu1447&" alt="giu1447" /></p>
+<h2 align="center">🌐 Social Media</h2>
+<p align="center">
+  <a href="https://www.instagram.com/giulian838/">Instagram</a>
+</p>
