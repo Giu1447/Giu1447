@@ -70,8 +70,7 @@ Ich heiße Giulian und besuche derzeit die IMS, wo ich meine Fähigkeiten in der
   </ul>
 </div><h2 align="center">📫 Kontakt</h2>
 <p align="center">
-  <a href="mailto:mazzeo.giulian@gmail.com">E-Mail</a> | 
-  <a href="https://www.linkedin.com/in/dominik-h%C3%A4mmerle-10956221b/">LinkedIn</a>
+  <a href="mailto:mazzeo.giulian@gmail.com">E-Mail</a> 
 </p>
 <h2 align="center">🌐 Social Media</h2>
 <p align="center">
