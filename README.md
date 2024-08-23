@@ -14,7 +14,7 @@ Ich heiße Giulian und besuche derzeit die IMS, wo ich meine Fähigkeiten in der
       <b>Zürcher Lehrbetriebsverband ICT</b><br>
     </li>
   </ul>
-  Abgeschlossene Semester: <b>3</b>
+  Abgeschlossene Semester: <b>4</b>
 </div><h2 align="center">🌟 IT-Kompetenzen</h2>
 <h3 align="center">Frameworks & Sprachen, die ich regelmäßig nutze</h3>
 <div align="center">
